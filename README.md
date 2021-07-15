@@ -20,13 +20,12 @@ Users should be able to:
 - See the size of the elements adjust based on their device's screen size
 - Perform mathmatical operations like addition, subtraction, multiplication, and division
 - Adjust the color theme based on their preference
-- **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository url]()
+- Live Site URL: [Live Site Url](https://simple-calculatornew.netlify.app/)
 
 ## My process
 
@@ -36,9 +35,9 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
+- jQuery
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [Japjot Singh](https://www.frontendmentor.io/profile/Japjotsingh02)
+- Twitter - [Japjot Singh](https://twitter.com/Japjots62944019e)
