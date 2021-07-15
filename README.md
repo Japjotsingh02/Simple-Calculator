@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository url]()
+- Solution URL: [Repository url](https://github.com/Japjotsingh02/Simple-Calculator)
 - Live Site URL: [Live Site Url](https://simple-calculatornew.netlify.app/)
 
 ## My process
